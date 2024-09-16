@@ -1,4 +1,4 @@
-# The Google Foobar Challenge
+fixing problematic # The Google Foobar Challenge
 
 The Foobar Challenge is Google's semi-secret coding challenge that they use as a recruitment tool. Access is by invitation only. I suggest taking up the invitation if you get the opportunity. Apart from anything else, it provides an interesting and enjoyable set of coding challenges. 
 
